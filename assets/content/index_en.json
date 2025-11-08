@@ -1,0 +1,91 @@
+{
+"title": "Guest House Evika Hrabušice",
+"subtitle": "Your perfect stay in the Slovak Paradise",
+"description": "Ubytovanie Tri Sestry Hrabusice hotel, located just 12 minutes on foot from Catholic Church, features Wi-Fi throughout the property. This guest house entices guests with parking, available on site. Hrabusice centre can be reached within 5 minutes' walk. The hotel in Hrabusice is relatively close to Monastery Gorge. Located 10 minutes by car from the national Prielom Hornadu Nature Reserve, this accommodation puts the city at your fingertips. For those travelling from afar, Poprad-Tatry airport is 27 minutes' drive away.",
+"menu_option_rooms":"Rooms",
+"menu_option_gallery":"Gallery",
+"menu_option_amenities": "Amenities",
+"menu_option_policy": "Policy",
+"menu_option_map":"Map",
+"menu_option_get_in_touch":"Get In Touch",
+
+
+"rooms_title": "Rooms",
+
+
+"triple_room": "TRIPLE ROOM",
+"triple_room_guests": "Guests: 3",
+"triple_room_description": "Cozy triple room with Wi-Fi, fireplace, and heating.",
+
+"double_room_with_bathroom": "DOUBLE ROOM WITH PRIVATE BATHROOM",
+"double_room_with_bathroom_guests": "Guests: 2",
+"double_room_with_bathroom_description": "Cozy double room with Wi-Fi, fireplace, heating, and a private bathroom.",
+
+"double_room": "DOUBLE ROOM",
+"double_room_guests": "Guests: 2",
+"double_room_description": "Cozy double room with Wi-Fi, fireplace, and heating.",
+
+
+"family_room_bathroom": "FAMILY ROOM WITH PRIVATE BATHROOM",
+"family_room_bathroom_guests": "Guests: 2",
+"family_room_bathroom_description": "Cozy family room with Wi-Fi, fireplace, heating, and a private bathroom.",
+
+"two_bedroom_apartment": "TWO-BEDROOM APARTMENT",
+"two_bedroom_apartment_guests": "Guests: 8",
+"two_bedroom_apartment_description": "Cozy apartment with 2 bedrooms, Wi-Fi, fireplace, heating, and private bathrooms.",
+
+
+
+"budget_twin_room": "BUDGET TWIN ROOM",
+"budget_twin_room_guests": "Guests: 2",
+"budget_twin_room_description": "Cozy budget room with Wi-Fi, fireplace, and heating.",
+
+"single_room": "SINGLE ROOM",
+"single_room_guests": "Guests: 1",
+"single_room_description": "Cozy single room with Wi-Fi, fireplace, and heating.",
+
+
+"amenities_title": "Amenities",
+
+"main_features":"Main Features", 
+"main_features_items":"Free Wi-Fi, Child-friendly, Sport Activities, No pets allowed",
+
+"facilities": "Facilities",
+"facilities_items": "No smoking on site, No pets allowed, Fire extinguishers, Free Wi-Fi, Security, Free parking, Fireplace",
+
+"dining": "Dining",
+"dining_items": "Shared kitchen, Cookware/Kitchen utnesils, Electric kettle, Outdoor dining area",
+
+"leisure_and_sports":"Leisure & Sports",
+"leisure_and_sports_items":"Aqua park, Skiing, Badminton, Graden area, Hiking, Darts, BBQ facilities, Horseback riding, Leisure/TV room, Cycling",
+
+"services": "Services",
+"services_items": "Laundry, Dry cleaning, Grocery shopping service",
+
+"room_amenities":"Room Amenities",
+"room_amenities_items": "Heating, Ironing facilities, Electric blankets, Terrace, Washing machine, Children's play area, Garden furniture, Free toileteries, Parquet floor",
+
+
+
+"policy": "Policy",
+"policy_paragraph_1":"Check-in: from 10:30 until 20:00<br>Check-out: from 07:00 until 09:00<br>Children and extra beds<br>There are no cots provided in a room.",
+"policy_paragraph_2":"Please inform in advance of your expected arrival time. You can use the Special Requests box when booking, or contact the property directly with the contact details provided in your confirmation.<br>Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply.<br>Payment before arrival via bank transfer is required. The property will contact you after you book to provide instructions.",
+
+
+"gallery":"Gallery",
+
+
+"get_in_touch":"GET IN TOUCH",
+"contact": "Contact",
+"address": "Hlavna 176, Hrabusice, Slovak Republic",
+
+
+"close": "Close",
+"menu": "Menu",
+"map":"Map",
+
+
+"site_visitors": "SITE VISITORS Today/Total"
+
+
+}

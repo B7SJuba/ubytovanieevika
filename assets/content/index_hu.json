@@ -1,0 +1,70 @@
+{
+"title": "Evika Vendégház Hrabušice",
+"subtitle": "Tökéletes pihenésed a Szlovák Paradicsomban",
+"description": "Az Ubytovanie Tri Sestry Hrabušice szálloda, amely mindössze 12 perc sétára található a Katolikus templomtól, ingyenes Wi-Fi-t kínál az egész területen. Ez a vendégház parkolási lehetőséget biztosít a helyszínen. Hrabušice központja 5 perc sétával elérhető. A szálloda Hrabušicében viszonylag közel található a Kolostor-szurdokhoz. Az országos Prielom Hornádu Természetvédelmi Terület 10 perces autóútra található, így a város könnyen elérhető. A távolabbról érkezők számára a Poprad–Tátra repülőtér 27 perces autóútra van.",
+"menu_option_rooms": "Szobák",
+"menu_option_gallery": "Galéria",
+"menu_option_amenities": "Felszereltség",
+"menu_option_policy": "Házirend",
+"menu_option_map": "Térkép",
+"menu_option_get_in_touch": "Kapcsolatfelvétel",
+
+"rooms_title": "Szobák",
+
+"triple_room": "HÁROMÁGYAS SZOBA",
+"triple_room_guests": "Vendégek: 3",
+"triple_room_description": "Hangulatos háromágyas szoba Wi-Fi-vel, kandallóval és fűtéssel.",
+
+"double_room_with_bathroom": "KÉTÁGYAS SZOBA SAJÁT FÜRDŐSZOBÁVAL",
+"double_room_with_bathroom_guests": "Vendégek: 2",
+"double_room_with_bathroom_description": "Hangulatos kétágyas szoba Wi-Fi-vel, kandallóval, fűtéssel és saját fürdőszobával.",
+
+"double_room": "KÉTÁGYAS SZOBA",
+"double_room_guests": "Vendégek: 2",
+"double_room_description": "Hangulatos kétágyas szoba Wi-Fi-vel, kandallóval és fűtéssel.",
+
+"family_room_bathroom": "CSALÁDI SZOBA SAJÁT FÜRDŐSZOBÁVAL",
+"family_room_bathroom_guests": "Vendégek: 2",
+"family_room_bathroom_description": "Hangulatos családi szoba Wi-Fi-vel, kandallóval, fűtéssel és saját fürdőszobával.",
+
+"two_bedroom_apartment": "KÉT HÁLÓSZOBÁS APARTMAN",
+"two_bedroom_apartment_guests": "Vendégek: 8",
+"two_bedroom_apartment_description": "Hangulatos apartman 2 hálószobával, Wi-Fi-vel, kandallóval, fűtéssel és saját fürdőszobákkal.",
+
+"budget_twin_room": "GAZDASÁGOS KÉTÁGYAS SZOBA",
+"budget_twin_room_guests": "Vendégek: 2",
+"budget_twin_room_description": "Hangulatos, gazdaságos szoba Wi-Fi-vel, kandallóval és fűtéssel.",
+
+"single_room": "EGYÁGYAS SZOBA",
+"single_room_guests": "Vendégek: 1",
+"single_room_description": "Hangulatos egyágyas szoba Wi-Fi-vel, kandallóval és fűtéssel.",
+
+"amenities_title": "Felszereltség",
+"main_features": "Fő jellemzők",
+"main_features_items": "Ingyenes Wi-Fi, Gyermekbarát, Sporttevékenységek, Háziállatok nem engedélyezettek",
+"facilities": "Létesítmények",
+"facilities_items": "Dohányzásmentes, Háziállatok nem engedélyezettek, Tűzoltó készülékek, Ingyenes Wi-Fi, Biztonság, Ingyenes parkolás, Kandalló",
+"dining": "Étkezés",
+"dining_items": "Közös konyha, Főzőedények, Elektromos vízforraló, Kültéri étkezőrész",
+"leisure_and_sports": "Szabadidő és sport",
+"leisure_and_sports_items": "Aqua park, Síelés, Tollaslabda, Kert, Túrázás, Darts, Grillezési lehetőség, Lovaglás, Közös TV-szoba, Kerékpározás",
+"services": "Szolgáltatások",
+"services_items": "Mosoda, Vegytisztítás, Bevásárlási szolgáltatás",
+"room_amenities": "Szobai felszereltség",
+"room_amenities_items": "Fűtés, Vasalási lehetőség, Elektromos takarók, Terasz, Mosógép, Játszótér, Kerti bútorok, Ingyenes piperecikkek, Parkettás padló",
+
+"policy": "Házirend",
+"policy_paragraph_1": "Bejelentkezés: 10:30 és 20:00 között<br>Kijelentkezés: 07:00 és 09:00 között<br>Gyermekek és pótágyak<br>A szobákban nem állnak rendelkezésre kiságyak.",
+"policy_paragraph_2": "Kérjük, előre jelezze várható érkezési idejét. Ezt megteheti a foglaláskor a Megjegyzések mezőben, vagy közvetlenül kapcsolatba léphet a szálláshellyel.<br>A vendégeknek bejelentkezéskor fényképes igazolványt és bankkártyát kell bemutatniuk. A különleges kérések a rendelkezésre állástól függnek és felárasak lehetnek.<br>Érkezés előtt banki átutalással történő fizetés szükséges. A szálláshely a foglalás után felveszi Önnel a kapcsolatot és megadja a szükséges utasításokat.",
+
+"gallery": "Galéria",
+"get_in_touch": "KAPCSOLATFELVÉTEL",
+"contact": "Kapcsolat",
+"address": "Hlavna 176, Hrabušice, Szlovákia",
+
+"close": "Bezárás",
+"menu": "Menü",
+"map": "Térkép",
+
+"site_visitors": "OLDALLÁTOGATÓK Ma/Összesen"
+}

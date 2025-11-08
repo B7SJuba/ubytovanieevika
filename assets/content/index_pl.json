@@ -1,0 +1,72 @@
+{
+"title": "Pensjonat Evika Hrabušice",
+"subtitle": "Twój idealny pobyt w Słowackim Raju",
+"description": "Hotel Ubytovanie Tri Sestry Hrabusice, położony zaledwie 12 minut spacerem od Kościoła Katolickiego, oferuje Wi-Fi na terenie całego obiektu. Ten pensjonat oferuje gościom parking na miejscu. Centrum Hrabušice można osiągnąć w 5 minut spacerem. Hotel w Hrabušice znajduje się stosunkowo blisko Wąwozu Klasztornego. Położony 10 minut samochodem od rezerwatu przyrody Prielom Hornadu, obiekt zapewnia łatwy dostęp do miasta. Dla podróżujących z daleka lotnisko Poprad-Tatry znajduje się 27 minut jazdy samochodem.",
+"menu_option_rooms":"Pokoje",
+"menu_option_gallery":"Galeria",
+"menu_option_amenities": "Udogodnienia",
+"menu_option_policy": "Zasady",
+"menu_option_map":"Mapa",
+"menu_option_get_in_touch":"Kontakt",
+
+"rooms_title": "Pokoje",
+
+"triple_room": "POKÓJ TRZYOSOBOWY",
+"triple_room_guests": "Goście: 3",
+"triple_room_description": "Przytulny pokój trzyosobowy z Wi-Fi, kominkiem i ogrzewaniem.",
+
+"double_room_with_bathroom": "POKÓJ DWUOSOBOWY Z ŁAZIENKĄ",
+"double_room_with_bathroom_guests": "Goście: 2",
+"double_room_with_bathroom_description": "Przytulny pokój dwuosobowy z Wi-Fi, kominkiem, ogrzewaniem i prywatną łazienką.",
+
+"double_room": "POKÓJ DWUOSOBOWY",
+"double_room_guests": "Goście: 2",
+"double_room_description": "Przytulny pokój dwuosobowy z Wi-Fi, kominkiem i ogrzewaniem.",
+
+"family_room_bathroom": "POKÓJ RODZINNY Z ŁAZIENKĄ",
+"family_room_bathroom_guests": "Goście: 2",
+"family_room_bathroom_description": "Przytulny pokój rodzinny z Wi-Fi, kominkiem, ogrzewaniem i prywatną łazienką.",
+
+"two_bedroom_apartment": "APARTAMENT DWUPOKOJOWY",
+"two_bedroom_apartment_guests": "Goście: 8",
+"two_bedroom_apartment_description": "Przytulny apartament z 2 sypialniami, Wi-Fi, kominkiem, ogrzewaniem i prywatnymi łazienkami.",
+
+"budget_twin_room": "BUDŻETOWY POKÓJ DWUOSOBOWY",
+"budget_twin_room_guests": "Goście: 2",
+"budget_twin_room_description": "Przytulny budżetowy pokój z Wi-Fi, kominkiem i ogrzewaniem.",
+
+"single_room": "POKÓJ JEDNOOSOBOWY",
+"single_room_guests": "Goście: 1",
+"single_room_description": "Przytulny pokój jednoosobowy z Wi-Fi, kominkiem i ogrzewaniem.",
+
+"amenities_title": "Udogodnienia",
+"main_features":"Główne cechy",
+"main_features_items":"Darmowe Wi-Fi, Przyjazny dzieciom, Aktywności sportowe, Zakaz zwierząt",
+"facilities": "Obiekty",
+"facilities_items": "Zakaz palenia, Zakaz zwierząt, Gaśnice, Darmowe Wi-Fi, Ochrona, Darmowy parking, Kominek",
+"dining": "Jedzenie",
+"dining_items": "Wspólna kuchnia, Naczynia kuchenne, Czajnik elektryczny, Strefa do jedzenia na zewnątrz",
+"leisure_and_sports":"Wypoczynek i sport",
+"leisure_and_sports_items":"Aqua park, Narciarstwo, Badminton, Ogród, Wędrówki, Dart, Grill, Jazda konna, Pokój rekreacyjny/TV, Jazda na rowerze",
+"services": "Usługi",
+"services_items": "Pralnia, Czyszczenie chemiczne, Zakupy spożywcze",
+"room_amenities":"Udogodnienia w pokoju",
+"room_amenities_items":"Ogrzewanie, Żelazko, Koce elektryczne, Taras, Pralka, Plac zabaw dla dzieci, Meble ogrodowe, Darmowe kosmetyki, Parkiet",
+
+"policy": "Zasady",
+"policy_paragraph_1":"Zameldowanie: od 10:30 do 20:00<br>Wymeldowanie: od 07:00 do 09:00<br>Dzieci i dodatkowe łóżka<br>W pokoju nie są zapewnione łóżeczka dziecięce.",
+"policy_paragraph_2":"Prosimy o wcześniejsze poinformowanie o przewidywanej godzinie przyjazdu. Możesz skorzystać z pola Specjalne prośby podczas rezerwacji lub skontaktować się bezpośrednio z obiektem.<br>Goście muszą okazać dokument tożsamości i kartę kredytową przy zameldowaniu. Wszystkie specjalne prośby zależą od dostępności i mogą wiązać się z dodatkowymi opłatami.<br>Wymagana jest płatność przelewem bankowym przed przyjazdem. Obiekt skontaktuje się z Tobą po dokonaniu rezerwacji w celu podania instrukcji.",
+
+"gallery":"Galeria",
+
+"get_in_touch":"SKONTAKTUJ SIĘ",
+"contact": "Kontakt",
+"address": "Hlavna 176, Hrabušice, Słowacja",
+
+
+"close": "Zamknij",
+"menu": "Menu",
+"map":"Mapa",
+
+"site_visitors": "Odwiedzający dzisiaj/Łącznie"
+}

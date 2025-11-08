@@ -1,0 +1,70 @@
+{
+"title": "Penzión Evika Hrabušice",
+"subtitle": "Váš dokonalý pobyt v Slovenskom raji",
+"description": "Hotel Ubytovanie Tri Sestry Hrabušice, ktorý sa nachádza len 12 minút chôdze od Katolíckeho kostola, ponúka bezplatné Wi-Fi v celom objekte. Tento penzión ponúka hosťom parkovanie priamo na mieste. Centrum Hrabušíc je vzdialené len 5 minút chôdze. Hotel v Hrabušiciach sa nachádza pomerne blízko Kláštorskej rokliny. Národná prírodná rezervácia Prielom Hornádu je vzdialená 10 minút jazdy autom, takže mesto máte doslova na dosah. Pre cestujúcich z väčšej diaľky je letisko Poprad–Tatry vzdialené 27 minút jazdy autom.",
+"menu_option_rooms": "Izby",
+"menu_option_gallery": "Galéria",
+"menu_option_amenities": "Vybavenie",
+"menu_option_policy": "Podmienky",
+"menu_option_map": "Mapa",
+"menu_option_get_in_touch": "Kontaktujte nás",
+
+"rooms_title": "Izby",
+
+"triple_room": "TROJLÔŽKOVÁ IZBA",
+"triple_room_guests": "Hostia: 3",
+"triple_room_description": "Útulná trojlôžková izba s Wi-Fi, krbom a kúrením.",
+
+"double_room_with_bathroom": "DVOJLÔŽKOVÁ IZBA S VLASTNOU KÚPEĽŇOU",
+"double_room_with_bathroom_guests": "Hostia: 2",
+"double_room_with_bathroom_description": "Útulná dvojlôžková izba s Wi-Fi, krbom, kúrením a vlastnou kúpeľňou.",
+
+"double_room": "DVOJLÔŽKOVÁ IZBA",
+"double_room_guests": "Hostia: 2",
+"double_room_description": "Útulná dvojlôžková izba s Wi-Fi, krbom a kúrením.",
+
+"family_room_bathroom": "RODINNÁ IZBA S VLASTNOU KÚPEĽŇOU",
+"family_room_bathroom_guests": "Hostia: 2",
+"family_room_bathroom_description": "Útulná rodinná izba s Wi-Fi, krbom, kúrením a vlastnou kúpeľňou.",
+
+"two_bedroom_apartment": "DVOJSPÁLŇOVÝ APARTMÁN",
+"two_bedroom_apartment_guests": "Hostia: 8",
+"two_bedroom_apartment_description": "Útulný apartmán s dvoma spálňami, Wi-Fi, krbom, kúrením a súkromnými kúpeľňami.",
+
+"budget_twin_room": "LACNÁ DVOJLÔŽKOVÁ IZBA",
+"budget_twin_room_guests": "Hostia: 2",
+"budget_twin_room_description": "Útulná lacná izba s Wi-Fi, krbom a kúrením.",
+
+"single_room": "JEDNOLÔŽKOVÁ IZBA",
+"single_room_guests": "Hostia: 1",
+"single_room_description": "Útulná jednolôžková izba s Wi-Fi, krbom a kúrením.",
+
+"amenities_title": "Vybavenie",
+"main_features": "Hlavné vlastnosti",
+"main_features_items": "Bezplatné Wi-Fi, Vhodné pre deti, Športové aktivity, Zákaz domácich zvierat",
+"facilities": "Zariadenia",
+"facilities_items": "Zákaz fajčenia, Zákaz domácich zvierat, Hasiace prístroje, Bezplatné Wi-Fi, Bezpečnosť, Bezplatné parkovanie, Krb",
+"dining": "Stravovanie",
+"dining_items": "Spoločná kuchyňa, Kuchynský riad, Rýchlovarná kanvica, Vonkajšie posedenie",
+"leisure_and_sports": "Voľný čas a šport",
+"leisure_and_sports_items": "Aqua park, Lyžovanie, Badminton, Záhrada, Turistika, Šípky, Gril, Jazda na koni, Oddychová/TV miestnosť, Cyklistika",
+"services": "Služby",
+"services_items": "Práčovňa, Čistiareň, Nákupné služby",
+"room_amenities": "Vybavenie izby",
+"room_amenities_items": "Kúrenie, Žehliace potreby, Elektrické prikrývky, Terasa, Práčka, Detské ihrisko, Záhradný nábytok, Bezplatné toaletné potreby, Parketová podlaha",
+
+"policy": "Podmienky",
+"policy_paragraph_1": "Check-in: od 10:30 do 20:00<br>Check-out: od 07:00 do 09:00<br>Deti a prístelky<br>V izbách nie sú poskytované detské postieľky.",
+"policy_paragraph_2": "Prosím, informujte ubytovanie vopred o predpokladanom čase príchodu. Môžete to uviesť v kolónke pre špeciálne požiadavky pri rezervácii alebo kontaktovať ubytovanie priamo.<br>Hostia sú povinní pri príchode predložiť doklad totožnosti s fotografiou a kreditnú kartu. Všetky špeciálne požiadavky závisia od dostupnosti a môžu byť spoplatnené.<br>Pred príchodom je potrebná platba bankovým prevodom. Ubytovanie vás po rezervácii kontaktuje s pokynmi.",
+
+"gallery": "Galéria",
+"get_in_touch": "KONTAKTUJTE NÁS",
+"contact": "Kontakt",
+"address": "Hlavná 176, Hrabušice, Slovenská republika",
+
+"close": "Zavrieť",
+"menu": "Menu",
+"map": "Mapa",
+
+"site_visitors": "NÁVŠTEVNÍCI Dnes / Celkom"
+}
