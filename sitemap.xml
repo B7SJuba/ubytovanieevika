@@ -2,43 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
-  <!-- Root -->
-  <url>
-    <loc>https://ubytovanieevika.com/?lang=en</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ubytovanieevika.com/?lang=en" />
-    <xhtml:link rel="alternate" hreflang="sk" href="https://ubytovanieevika.com/?lang=sk" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://ubytovanieevika.com/?lang=pl" />
-    <xhtml:link rel="alternate" hreflang="hu" href="https://ubytovanieevika.com/?lang=hu" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ubytovanieevika.com/" />
-    <priority>1.00</priority>
-  </url>
-
-  <url>
-    <loc>https://ubytovanieevika.com/?lang=sk</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ubytovanieevika.com/?lang=en" />
-    <xhtml:link rel="alternate" hreflang="sk" href="https://ubytovanieevika.com/?lang=sk" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://ubytovanieevika.com/?lang=pl" />
-    <xhtml:link rel="alternate" hreflang="hu" href="https://ubytovanieevika.com/?lang=hu" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ubytovanieevika.com/" />
-    <priority>1.00</priority>
-  </url>
-
-  <url>
-    <loc>https://ubytovanieevika.com/?lang=pl</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ubytovanieevika.com/?lang=en" />
-    <xhtml:link rel="alternate" hreflang="sk" href="https://ubytovanieevika.com/?lang=sk" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://ubytovanieevika.com/?lang=pl" />
-    <xhtml:link rel="alternate" hreflang="hu" href="https://ubytovanieevika.com/?lang=hu" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ubytovanieevika.com/" />
-    <priority>1.00</priority>
-  </url>
+    <!-- Root -->
+    <url>
+      <loc>https://ubytovanieevika.com/?lang=en</loc>
+      <xhtml:link rel="alternate" hreflang="en" href="https://ubytovanieevika.com/?lang=en" />
+      <xhtml:link rel="alternate" hreflang="sk" href="https://ubytovanieevika.com/?lang=sk" />
+      <xhtml:link rel="alternate" hreflang="pl" href="https://ubytovanieevika.com/?lang=pl" />
+      <xhtml:link rel="alternate" hreflang="hu" href="https://ubytovanieevika.com/?lang=hu" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://ubytovanieevika.com/" />
+      <priority>1.00</priority>
+    </url>
 
     <url>
-    <loc>https://ubytovanieevika.com/?lang=hu</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ubytovanieevika.com/?lang=en" />
-    <xhtml:link rel="alternate" hreflang="sk" href="https://ubytovanieevika.com/?lang=sk" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://ubytovanieevika.com/?lang=pl" />
-    <xhtml:link rel="alternate" hreflang="hu" href="https://ubytovanieevika.com/?lang=hu" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ubytovanieevika.com/" />
-    <priority>1.00</priority>
-  </url>
+      <loc>https://ubytovanieevika.com/?lang=sk</loc>
+      <xhtml:link rel="alternate" hreflang="en" href="https://ubytovanieevika.com/?lang=en" />
+      <xhtml:link rel="alternate" hreflang="sk" href="https://ubytovanieevika.com/?lang=sk" />
+      <xhtml:link rel="alternate" hreflang="pl" href="https://ubytovanieevika.com/?lang=pl" />
+      <xhtml:link rel="alternate" hreflang="hu" href="https://ubytovanieevika.com/?lang=hu" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://ubytovanieevika.com/" />
+      <priority>1.00</priority>
+    </url>
+
+    <url>
+      <loc>https://ubytovanieevika.com/?lang=pl</loc>
+      <xhtml:link rel="alternate" hreflang="en" href="https://ubytovanieevika.com/?lang=en" />
+      <xhtml:link rel="alternate" hreflang="sk" href="https://ubytovanieevika.com/?lang=sk" />
+      <xhtml:link rel="alternate" hreflang="pl" href="https://ubytovanieevika.com/?lang=pl" />
+      <xhtml:link rel="alternate" hreflang="hu" href="https://ubytovanieevika.com/?lang=hu" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://ubytovanieevika.com/" />
+      <priority>1.00</priority>
+    </url>
+
+      <url>
+      <loc>https://ubytovanieevika.com/?lang=hu</loc>
+      <xhtml:link rel="alternate" hreflang="en" href="https://ubytovanieevika.com/?lang=en" />
+      <xhtml:link rel="alternate" hreflang="sk" href="https://ubytovanieevika.com/?lang=sk" />
+      <xhtml:link rel="alternate" hreflang="pl" href="https://ubytovanieevika.com/?lang=pl" />
+      <xhtml:link rel="alternate" hreflang="hu" href="https://ubytovanieevika.com/?lang=hu" />
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://ubytovanieevika.com/" />
+      <priority>1.00</priority>
+    </url>
+    
+  </urlset>
